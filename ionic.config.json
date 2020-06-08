@@ -1,0 +1,7 @@
+{
+  "name": "gamebaht-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
